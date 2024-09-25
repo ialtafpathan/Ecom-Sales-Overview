@@ -13,7 +13,7 @@ his dashboard focuses on sales performance, profits, state-wise breakdowns, and 
 
 # Customer, Sellers & Orders 
 This dashboard provides an in-depth view of customer demographics, order details, and seller performance. It is designed to give a comprehensive understanding of how orders are distributed, which cities are contributing the most, and the current status of orders.
-![Screenshot (446)](https://github.com/user-attachments/assets/adb9ef08-4558-42d0-be17-bbe56e871672)
+![Screenshot (445)](https://github.com/user-attachments/assets/7fbd93fd-68ed-4c40-99f1-572063b67752)
 
 # Key Insights 
 ![Screenshot (447)](https://github.com/user-attachments/assets/85e60377-47a8-4051-a6c1-da5a6969352f)
